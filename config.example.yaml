@@ -5,22 +5,22 @@
 
 # YOUR IDENTITY
 
-name: "Tyler Larsen"
+name: "Your Name"
 email: "you@example.com"
 phone: "555-867-5309"
 
 # YOUR LOCATION & COMMUTE
 
-city: "Aumsville"
-state: "OR"
-zip: "97325"
+city: "Your City"
+state: "XX"
+zip: "00000"
 
 max_commute_miles: 25
 
 nearby_cities:
-  - "Salem, OR"
-    - "Stayton, OR"
-      - "Turner, OR"
+  - "Nearby City 1, XX"
+    - "Nearby City 2, XX"
+      - "Nearby City 3, XX"
 
       # WHAT KIND OF WORK YOU WANT
 
