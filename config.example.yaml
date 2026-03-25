@@ -1,0 +1,66 @@
+# job-hunt-config.yaml
+# Copy this file, rename it to job-hunt-config.yaml, fill it in, and upload it to
+# the conversation before running the job hunt skill. Or just answer the questions
+# when Claude asks -- this file is optional but speeds things up.
+
+# YOUR IDENTITY
+
+name: "Tyler Larsen"
+email: "you@example.com"
+phone: "555-867-5309"
+
+# YOUR LOCATION & COMMUTE
+
+city: "Aumsville"
+state: "OR"
+zip: "97325"
+
+max_commute_miles: 25
+
+nearby_cities:
+  - "Salem, OR"
+    - "Stayton, OR"
+      - "Turner, OR"
+
+      # WHAT KIND OF WORK YOU WANT
+
+      job_titles:
+        - "line cook"
+          - "cook"
+            - "kitchen manager"
+              - "prep cook"
+                - "lead cook"
+
+                preferred_environments:
+                  - "diner"
+                    - "bar and grill"
+                      - "restaurant"
+                        - "cafe"
+
+                        pay_min_hourly: 15
+                        pay_max_hourly: 25
+
+                        # RESUME
+
+                        resume_file: ""
+
+                        # SEARCH BEHAVIOR
+
+                        target_employer_count: 6
+                        prefer_email_contact: true
+                        include_chains: true
+
+                        exclude_employers:
+                          - ""
+
+                          # EMAIL BEHAVIOR
+
+                          require_approval_before_send: true
+                          default_tone: "semi-formal"
+                          followup_reminder_days: 7
+
+                          # NOTES / SPECIAL INSTRUCTIONS
+
+                          special_notes: |
+                            I'm available to start immediately.
+                              I have open availability including weekends and evenings.
