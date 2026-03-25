@@ -72,15 +72,15 @@ If the answer to that last one is yes -- use it.
 
 **Resume line:** "Graveyard cook and shift manager at Waffle House"
 
-- For Black Bear Diner (high-volume diner): "I ran overnight shifts at Waffle House solo -- that's
+- For Harbor Grill (high-volume diner): "I ran overnight shifts at Waffle House solo -- that's
   high-volume, relentless ticket flow, and you're accountable for everything. I'm built for exactly
-    the pace a place like Black Bear runs."
+  the pace a place like Harbor Grill runs."
 
-    - For Ankeny Vineyard (wine bar, small plates): "My Waffle House time taught me speed and
-      consistency under pressure. What I'm excited to bring here is that precision -- but applied to a
-        menu I'm genuinely proud of."
+- For Elm Street Bistro (wine bar, small plates): "My Waffle House time taught me speed and
+  consistency under pressure. What I'm excited to bring here is that precision -- but applied to a
+  menu I'm genuinely proud of."
 
-        - For Santiam Hospital (dietary): "I've worked overnight solo service, which means food safety,
-          cleanliness, and reliability aren't things I learned from a manual -- they're just how I operate."
+- For Maplewood Medical Center (dietary): "I've worked overnight solo service, which means food safety,
+  cleanliness, and reliability aren't things I learned from a manual -- they're just how I operate."
 
-          Same resume line. Three completely different angles. That's the work.
+Same resume line. Three completely different angles. That's the work.
